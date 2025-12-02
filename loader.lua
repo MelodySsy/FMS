@@ -31,7 +31,7 @@ local function checkVersion()
 end
 
 -- Game validation
-local FISH_IT_PLACE_ID = 16732694052
+local FISH_IT_PLACE_ID = 121864768012064
 
 local function isValidGame()
     return game.PlaceId == FISH_IT_PLACE_ID
